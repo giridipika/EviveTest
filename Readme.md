@@ -58,7 +58,7 @@ The system takes orders for Breakfast, Lunch, and Dinner. Considering menus:
 ***
 To compile the program, install the following programs:
 #### JUNIT 4 or 5 
-#### Java SE Development Kit 
+#### Java SE Development Kit 8
 
 ## Running the program
 ***
